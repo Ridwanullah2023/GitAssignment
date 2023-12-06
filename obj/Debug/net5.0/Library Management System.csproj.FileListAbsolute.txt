@@ -1,0 +1,5 @@
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\CONSOLEAPPS\Library Management System\obj\Debug\net5.0\Library Management System.csproj.AssemblyReference.cache
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\CONSOLEAPPS\Library Management System\obj\Debug\net5.0\Library Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\CONSOLEAPPS\Library Management System\obj\Debug\net5.0\Library Management System.AssemblyInfoInputs.cache
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\CONSOLEAPPS\Library Management System\obj\Debug\net5.0\Library Management System.AssemblyInfo.cs
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\CONSOLEAPPS\Library Management System\obj\Debug\net5.0\Library Management System.csproj.CoreCompileInputs.cache
